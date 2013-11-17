@@ -22,8 +22,9 @@ hr {
 .video-thumbnail {
 	padding: 3px;
 	width: 100%;
-	height:272px;
-	max-height:auto;
+	height: 75vh;
+/*	height:272px;
+	max-height:auto; */
 }
 .tile-1 {
 	float:right;
