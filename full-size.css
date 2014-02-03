@@ -14,3 +14,7 @@ html {
 	position: absolute;
 	margin: 30px;
 }
+
+.navbar {
+	font-family: 'Raleway', sans-serif;
+}
